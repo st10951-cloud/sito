@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Italiano",
             num: "3.7",
             category: "Area Umanistica",
-            img: "immagini/immagini/informatica.jpg",
+            img: "immagini/immagini/italiano.png",
             desc: "Italiano è la materia di cui spesso non sappiamo di aver bisogno, perché lo studio di poeti e periodi letterari apre nuovi orizzonti di pensiero e analisi introspettiva, come ad esempio il concetto di identità e maschere per Pirandello o la teoria del fanciullino di Pascoli.",
             topics: [
                 "Giacomo Leopardi: pensiero, poetica e opere principali",
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Storia",
             num: "3.8",
             category: "Area Umanistica",
-            img: "immagini/immagini/informatica.jpg",
+            img: "immagini/immagini/storia.jpg",
             desc: "Storia insegna a guardare il passato e analizzare gli errori commessi in determinati frangenti storici, in modo da comprenderli e non commetterli di nuovo nel presente, sia a livello personale che a livello macro-sociale e geopolitico.",
             topics: [
                 "L'Italia dell'età giolittiana e la seconda rivoluzione industriale",
@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Inglese",
             num: "3.9",
             category: "Area Umanistica",
-            img: "immagini/immagini/informatica.jpg",
+            img: "immagini/immagini/inglese.jpg",
             desc: "Considerare l'Inglese solo una materia scolastica è riduttivo, in quanto saperlo apre a moltissimi altri fronti a livello internazionale, oltre ad essere la lingua di base e lo standard universale per chiunque scelga un indirizzo tecnico e informatico.",
             topics: [
                 "Grammatica avanzata: tempi verbali, periodo ipotetico, forma passiva",
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Scienze Motorie",
             num: "3.10",
             category: "Altro",
-            img: "immagini/immagini/informatica.jpg",
+            img: "immagini/immagini/ginnastica.jpg",
             desc: "Ridurre Scienze Motorie a semplice 'attività fisica' sarebbe un errore, in quanto è il vero specchio della disciplina di uno studente. Imparare a conoscere e gestire il proprio corpo apre la strada al benessere psicofisico e insegna il valore imprescindibile del rispetto delle regole e del lavoro di squadra, competenze fondamentali tanto nello sport quanto nella vita di tutti i giorni.",
             topics: [
                 "Apparato muscolare e scheletrico",
