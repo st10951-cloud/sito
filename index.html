@@ -444,37 +444,6 @@
             </div>
             <div class="contatti-grid">
                 <div class="contatti-info-panel glass">
-                    <h3>Canali Diretti</h3>
-                    <div class="info-item">
-                        <span class="info-icon">✉️</span>
-                        <div class="info-details">
-                            <h4>Email</h4>
-                            <p><a href="mailto:st10951@iismarconipieralisi.it">st10951@iismarconipieralisi.it</a></p>
-                        </div>
-                    </div>
-                    <div class="info-item">
-                        <span class="info-icon">📞</span>
-                        <div class="info-details">
-                            <h4>Telefono</h4>
-                            <p><a href="tel:+393475574747">+39 347 557 4747</a></p>
-                        </div>
-                    </div>
-                    <div class="info-item">
-                        <span class="info-icon">🌐</span>
-                        <div class="info-details">
-                            <h4>GitHub</h4>
-                            <p><a href="https://github.com/st10951-cloud" target="_blank">github.com/st10951-cloud</a></p>
-                        </div>
-                    </div>
-                    <div class="info-item">
-                        <span class="info-icon">📸</span>
-                        <div class="info-details">
-                            <h4>Instagram</h4>
-                            <p><a href="https://instagram.com/manuel_porroo" target="_blank">@manuel_porroo</a></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="contatti-info-panel glass">
     <h3>Canali Diretti</h3>
     <div class="info-item">
         <span class="info-icon">
@@ -517,3 +486,45 @@
         </div>
     </div>
 </div>
+                <div class="contatti-form-panel glass">
+                    <h3>Invia un messaggio</h3>
+                    <form id="contact-form" class="contact-form">
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="form-name">Nome</label>
+                                <input type="text" id="form-name" placeholder="Il tuo nome" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="form-email">Email</label>
+                                <input type="email" id="form-email" placeholder="La tua email" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="form-subject">Oggetto</label>
+                            <input type="text" id="form-subject" placeholder="Oggetto del messaggio" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="form-message">Messaggio</label>
+                            <textarea id="form-message" rows="5" placeholder="Il tuo messaggio..." required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block">Invia Messaggio</button>
+                    </form>
+                    <div class="form-response-message" id="form-response"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-container">
+            <div class="footer-logo">
+                <span>Manuel Porro</span>
+            </div>
+            <p class="footer-copy">&copy; 2026 Manuel Porro. Tutti i diritti riservati. Realizzato in Informatica - IIS Marconi Pieralisi.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
