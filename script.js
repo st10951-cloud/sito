@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const subjectData = {
         info: {
             title: "Informatica",
-            num: "4.1",
+            num: "3.1",
             category: "Area Tecnica",
             img: "immagini/immagini/informatica.jpg",
             desc: "L'informatica è una disciplina che ho sempre ritenuto interessante, e il mio percorso di studi di scuola superiore non ha fatto altro che confermare, se non ampliare questo interesse. All'inizio la seguivo in modo passivo, ma un'esperienza ha risvegliato l'interesse puro per questa disciplina, ossia uno sviluppo di un'applicazione che si comportasse esattamente come un link shortener.",
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         sistemi: {
             title: "Sistemi e Reti",
-            num: "4.2",
+            num: "3.2",
             category: "Area Tecnica",
             img: "immagini/immagini/sistemiEReti.jpg",
             desc: "Sistemi e reti va a braccetto con informatica; senza l'una non esiste l'altra. Riservo un noto interesse per questo insegnamento, in particolare sul mondo della sicurezza informatica, che mi affascina per il suo intricato ed elegante funzionamento.",
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         tpsit: {
             title: "TPSIT",
-            num: "4.3",
+            num: "3.3",
             category: "Area Tecnica",
             img: "immagini/immagini/TPSIT.jpg",
             desc: "TPSIT (Tecnologie e Progettazione di Sistemi Informatici e di Telecomunicazione) è la materia che unisce la programmazione alle reti. Scoprire come i sistemi comunicano e scambiano dati ha stimolato profondamente la mia curiosità, spingendomi a mettere in pratica queste logiche per sviluppare progetti personali interattivi.",
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         gpoi: {
             title: "GPOI",
-            num: "4.4",
+            num: "3.4",
             category: "Area Tecnica",
             img: "immagini/immagini/GPOI.png",
             desc: "GPOI (Gestione Progetto e Organizzazione d'Impresa) è una materia che si può esprimere con la definizione di 'ponte tra informatica ed economia', perché si affrontano problemi di natura aziendale che implicano conoscenze informatiche per la parte tecnica ed economiche per la parte contabile e gestionale della società.",
@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         mate: {
             title: "Matematica",
-            num: "4.5",
+            num: "3.5",
             category: "Area Tecnica",
             img: "immagini/immagini/matematica.jpg",
             desc: "Matematica è la materia da cui parte tutto il mondo informatico e soprattutto il mondo dell'Intelligenza Artificiale: modelli informatici e sistemi intelligenti sfruttano modelli matematici come integrali e limiti. Non è solo questo, ma è anche la lingua dei fatti: statistiche, probabilità e dati sono calcolati dalla matematica, ed è ciò che la rende così importante.",
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         ia: {
             title: "Intelligenza Artificiale",
-            num: "4.6",
+            num: "3.6",
             category: "Area Tecnica",
             img: "immagini/immagini/IntelligenzaArtificale.jpg",
             desc: "L'Intelligenza Artificiale non è definibile solo come una 'materia', ma è un intero mondo. In particolare all'IIS Marconi Pieralisi si inizia dalle basi del deep learning, fino ad arrivare all'addestramento e all'interazione con le IA, inclusi i più famosi chatbot come ChatGPT, Copilot e Gemini.",
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         ita: {
             title: "Italiano",
-            num: "4.7",
+            num: "3.7",
             category: "Area Umanistica",
             img: "immagini/immagini/informatica.jpg",
             desc: "Italiano è la materia di cui spesso non sappiamo di aver bisogno, perché lo studio di poeti e periodi letterari apre nuovi orizzonti di pensiero e analisi introspettiva, come ad esempio il concetto di identità e maschere per Pirandello o la teoria del fanciullino di Pascoli.",
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         storia: {
             title: "Storia",
-            num: "4.8",
+            num: "3.8",
             category: "Area Umanistica",
             img: "immagini/immagini/informatica.jpg",
             desc: "Storia insegna a guardare il passato e analizzare gli errori commessi in determinati frangenti storici, in modo da comprenderli e non commetterli di nuovo nel presente, sia a livello personale che a livello macro-sociale e geopolitico.",
@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         ing: {
             title: "Inglese",
-            num: "4.9",
+            num: "3.9",
             category: "Area Umanistica",
             img: "immagini/immagini/informatica.jpg",
             desc: "Considerare l'Inglese solo una materia scolastica è riduttivo, in quanto saperlo apre a moltissimi altri fronti a livello internazionale, oltre ad essere la lingua di base e lo standard universale per chiunque scelga un indirizzo tecnico e informatico.",
@@ -143,7 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         motoria: {
             title: "Scienze Motorie",
-            num: "4.10",
+            num: "3.10",
             category: "Altro",
             img: "immagini/immagini/informatica.jpg",
             desc: "Ridurre Scienze Motorie a semplice 'attività fisica' sarebbe un errore, in quanto è il vero specchio della disciplina di uno studente. Imparare a conoscere e gestire il proprio corpo apre la strada al benessere psicofisico e insegna il valore imprescindibile del rispetto delle regole e del lavoro di squadra, competenze fondamentali tanto nello sport quanto nella vita di tutti i giorni.",
