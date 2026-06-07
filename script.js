@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Informatica",
             num: "4.1",
             category: "Area Tecnica",
-            img: "immagini/materia-informatica.jpg",
+            img: "immagini/immagini/informatica.jpg",
             desc: "L'informatica è una disciplina che ho sempre ritenuto interessante, e il mio percorso di studi di scuola superiore non ha fatto altro che confermare, se non ampliare questo interesse. All'inizio la seguivo in modo passivo, ma un'esperienza ha risvegliato l'interesse puro per questa disciplina, ossia uno sviluppo di un'applicazione che si comportasse esattamente come un link shortener.",
             topics: [
                 "Linguaggio SQL avanzato: query annidate, viste, stored procedure, trigger",
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Sistemi e Reti",
             num: "4.2",
             category: "Area Tecnica",
-            img: "immagini/materia-sistemi-reti.jpg",
+            img: "immagini/immagini/sistemiEReti.jpg",
             desc: "Sistemi e reti va a braccetto con informatica; senza l'una non esiste l'altra. Riservo un noto interesse per questo insegnamento, in particolare sul mondo della sicurezza informatica, che mi affascina per il suo intricato ed elegante funzionamento.",
             topics: [
                 "Modello ISO/OSI e stack TCP/IP a confronto",
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "TPSIT",
             num: "4.3",
             category: "Area Tecnica",
-            img: "immagini/materia-tpsit.jpg",
+            img: "immagini/immagini/TPSIT.jpg",
             desc: "TPSIT (Tecnologie e Progettazione di Sistemi Informatici e di Telecomunicazione) è la materia che unisce la programmazione alle reti. Scoprire come i sistemi comunicano e scambiano dati ha stimolato profondamente la mia curiosità, spingendomi a mettere in pratica queste logiche per sviluppare progetti personali interattivi.",
             topics: [
                 "Architetture client-server e peer-to-peer",
@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "GPOI",
             num: "4.4",
             category: "Area Tecnica",
-            img: "immagini/materia-gpoi.jpg",
+            img: "immagini/immagini/GPOI.png",
             desc: "GPOI (Gestione Progetto e Organizzazione d'Impresa) è una materia che si può esprimere con la definizione di 'ponte tra informatica ed economia', perché si affrontano problemi di natura aziendale che implicano conoscenze informatiche per la parte tecnica ed economiche per la parte contabile e gestionale della società.",
             topics: [
                 "Cos'è un progetto, ciclo di vita e fasi",
@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Matematica",
             num: "4.5",
             category: "Area Tecnica",
-            img: "immagini/materia-matematica.jpg",
+            img: "immagini/immagini/matematica.jpg",
             desc: "Matematica è la materia da cui parte tutto il mondo informatico e soprattutto il mondo dell'Intelligenza Artificiale: modelli informatici e sistemi intelligenti sfruttano modelli matematici come integrali e limiti. Non è solo questo, ma è anche la lingua dei fatti: statistiche, probabilità e dati sono calcolati dalla matematica, ed è ciò che la rende così importante.",
             topics: [
                 "Limiti di funzioni reali, forme indeterminate e teoremi sui limiti",
@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Intelligenza Artificiale",
             num: "4.6",
             category: "Area Tecnica",
-            img: "immagini/materia-ia.jpg",
+            img: "immagini/immagini/IntelligenzaArtificale.jpg",
             desc: "L'Intelligenza Artificiale non è definibile solo come una 'materia', ma è un intero mondo. In particolare all'IIS Marconi Pieralisi si inizia dalle basi del deep learning, fino ad arrivare all'addestramento e all'interazione con le IA, inclusi i più famosi chatbot come ChatGPT, Copilot e Gemini.",
             topics: [
                 "Storia dell'intelligenza artificiale: dai primi sistemi esperti al deep learning",
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Italiano",
             num: "4.7",
             category: "Area Umanistica",
-            img: "immagini/materia-italiano.jpg",
+            img: "immagini/immagini/informatica.jpg",
             desc: "Italiano è la materia di cui spesso non sappiamo di aver bisogno, perché lo studio di poeti e periodi letterari apre nuovi orizzonti di pensiero e analisi introspettiva, come ad esempio il concetto di identità e maschere per Pirandello o la teoria del fanciullino di Pascoli.",
             topics: [
                 "Giacomo Leopardi: pensiero, poetica e opere principali",
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Storia",
             num: "4.8",
             category: "Area Umanistica",
-            img: "immagini/materia-storia.jpg",
+            img: "immagini/immagini/informatica.jpg",
             desc: "Storia insegna a guardare il passato e analizzare gli errori commessi in determinati frangenti storici, in modo da comprenderli e non commetterli di nuovo nel presente, sia a livello personale che a livello macro-sociale e geopolitico.",
             topics: [
                 "L'Italia dell'età giolittiana e la seconda rivoluzione industriale",
@@ -130,7 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Inglese",
             num: "4.9",
             category: "Area Umanistica",
-            img: "immagini/materia-inglese.jpg",
+            img: "immagini/immagini/informatica.jpg",
             desc: "Considerare l'Inglese solo una materia scolastica è riduttivo, in quanto saperlo apre a moltissimi altri fronti a livello internazionale, oltre ad essere la lingua di base e lo standard universale per chiunque scelga un indirizzo tecnico e informatico.",
             topics: [
                 "Grammatica avanzata: tempi verbali, periodo ipotetico, forma passiva",
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Scienze Motorie",
             num: "4.10",
             category: "Altro",
-            img: "immagini/materia-scienze-motorie.jpg",
+            img: "immagini/immagini/informatica.jpg",
             desc: "Ridurre Scienze Motorie a semplice 'attività fisica' sarebbe un errore, in quanto è il vero specchio della disciplina di uno studente. Imparare a conoscere e gestire il proprio corpo apre la strada al benessere psicofisico e insegna il valore imprescindibile del rispetto delle regole e del lavoro di squadra, competenze fondamentali tanto nello sport quanto nella vita di tutti i giorni.",
             topics: [
                 "Apparato muscolare e scheletrico",
@@ -156,6 +156,7 @@ document.addEventListener('DOMContentLoaded', () => {
             ]
         }
     };
+
     // --- 2. GESTIONE TEMI (DARK/LIGHT MODE) ---
     const themeToggle = document.getElementById('theme-toggle');
     const themeIcon = themeToggle.querySelector('.theme-icon');
@@ -181,6 +182,7 @@ document.addEventListener('DOMContentLoaded', () => {
             themeIcon.textContent = '🌙';
         }
     }
+
     // --- 3. COMPORTAMENTO NAVBAR ---
     const navbar = document.getElementById('site-navbar');
     window.addEventListener('scroll', () => {
@@ -190,12 +192,12 @@ document.addEventListener('DOMContentLoaded', () => {
             navbar.classList.remove('scrolled');
         }
     });
+
     // --- 4. SCROLLSPY (ACTIVE LINKS) ---
     const sections = document.querySelectorAll('section');
     const navLinks = document.querySelectorAll('.nav-link');
     window.addEventListener('scroll', () => {
         let currentSectionId = 'home';
-        
         sections.forEach(section => {
             const sectionTop = section.offsetTop - 120;
             if (window.pageYOffset >= sectionTop) {
@@ -209,6 +211,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     });
+
     // --- 5. MENU MOBILE (HAMBURGER) ---
     const menuToggle = document.getElementById('menu-toggle');
     const navLinksContainer = document.getElementById('nav-links');
@@ -216,19 +219,18 @@ document.addEventListener('DOMContentLoaded', () => {
         navbar.classList.toggle('menu-open');
         navLinksContainer.classList.toggle('open');
     });
-    // Close menu when a link is clicked
     navLinks.forEach(link => {
         link.addEventListener('click', () => {
             navbar.classList.remove('menu-open');
             navLinksContainer.classList.remove('open');
         });
     });
+
     // --- 6. FILTRO MATERIE (TABS) ---
     const tabButtons = document.querySelectorAll('.tab-btn');
     const subjectCards = document.querySelectorAll('.subject-card');
     tabButtons.forEach(btn => {
         btn.addEventListener('click', () => {
-            // Remove active from other buttons
             tabButtons.forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             const category = btn.getAttribute('data-category');
@@ -242,32 +244,27 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
     });
+
     // --- 7. MODAL GESTIONE DETTAGLI MATERIA ---
     const modal = document.getElementById('subject-modal');
     const closeModalBtn = document.getElementById('close-modal');
     const modalBackdrop = modal.querySelector('.modal-backdrop');
-    
-    // Modal elements
     const modalNum = document.getElementById('modal-subject-num');
     const modalCat = document.getElementById('modal-subject-cat');
     const modalTitle = document.getElementById('modal-subject-title');
     const modalImg = document.getElementById('modal-subject-img');
     const modalDesc = document.getElementById('modal-subject-desc');
     const modalTopics = document.getElementById('modal-subject-topics');
-    // Attach click event to cards
+
     subjectCards.forEach(card => {
         card.addEventListener('click', () => {
             const subjectId = card.getAttribute('data-subject');
             const data = subjectData[subjectId];
-            
             if (data) {
-                // Populate Modal Data
                 modalNum.textContent = data.num;
                 modalCat.textContent = data.category;
                 modalTitle.textContent = data.title;
                 modalDesc.textContent = data.desc;
-                
-                // Fallback for missing local images using Unsplash placeholders
                 modalImg.src = data.img;
                 modalImg.onerror = function() {
                     let fallbackUrl = 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop';
@@ -281,39 +278,36 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (subjectId === 'motoria') fallbackUrl = 'https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=600&h=400&fit=crop';
                     modalImg.src = fallbackUrl;
                 };
-                // Clear and build topics list
                 modalTopics.innerHTML = '';
                 data.topics.forEach(topic => {
                     const li = document.createElement('li');
                     li.textContent = topic;
                     modalTopics.appendChild(li);
                 });
-                // Open Modal
                 modal.classList.add('open');
-                body.style.overflow = 'hidden'; // Lock background scrolling
+                body.style.overflow = 'hidden';
             }
         });
     });
+
     function closeModal() {
         modal.classList.remove('open');
-        body.style.overflow = ''; // Unlock scrolling
+        body.style.overflow = '';
     }
     closeModalBtn.addEventListener('click', closeModal);
     modalBackdrop.addEventListener('click', closeModal);
-    // Close modal on Escape key press
     document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape' && modal.classList.contains('open')) {
             closeModal();
         }
     });
+
     // --- 8. SUBMISSION FORM DI CONTATTO MOCK ---
     const contactForm = document.getElementById('contact-form');
     const formResponse = document.getElementById('form-response');
     if (contactForm) {
         contactForm.addEventListener('submit', (e) => {
             e.preventDefault();
-            
-            // Show sending status
             const submitBtn = contactForm.querySelector('button[type="submit"]');
             const originalText = submitBtn.textContent;
             submitBtn.textContent = 'Invio in corso...';
@@ -321,14 +315,9 @@ document.addEventListener('DOMContentLoaded', () => {
             setTimeout(() => {
                 submitBtn.textContent = originalText;
                 submitBtn.disabled = false;
-                
-                // Clear inputs
                 contactForm.reset();
-                // Show success message
                 formResponse.textContent = 'Grazie! Il tuo messaggio è stato inviato con successo. Ti risponderò al più presto.';
                 formResponse.className = 'form-response-message success';
-                
-                // Fade out message after 5 seconds
                 setTimeout(() => {
                     formResponse.style.display = 'none';
                 }, 5000);
