@@ -1175,6 +1175,11 @@ a {
     margin-bottom: 4rem;
     justify-content: center;
 }
+
+.pcto-tasks-grid .task-card {
+    flex: 0 0 calc(33.333% - 1.25rem);
+    max-width: 320px;
+}
  
 .task-card {
     padding: 2rem 1.5rem;
